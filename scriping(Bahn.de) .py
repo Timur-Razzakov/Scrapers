@@ -7,9 +7,6 @@ from selenium.webdriver.common.keys import Keys
 import time
 import sys
 
-"""
-Готов к скрапингу, вводин все данные. осталось взять рейсы!!!
-"""
 PATH = 'C:\Program Files (x86)\chromedriver.exe'
 
 
